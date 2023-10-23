@@ -2,7 +2,7 @@ using System;
 
 class Program {
   public static void Main (string[] args) {
-    int x = 50;
+    int x = -15;
     double y = 2.54;
 
     double total = x * y;
