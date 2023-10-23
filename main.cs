@@ -7,7 +7,7 @@ class Program {
 
     double total = x * y;
 
-    Console.WriteLine("{0} * {1} = {2}", x, y, total);
+    Console.WriteLine("{0} inches * {1} is {2} centimeters", x, y, total);
     
     
   }
