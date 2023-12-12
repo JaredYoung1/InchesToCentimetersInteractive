@@ -2,12 +2,21 @@ using System;
 
 class Program {
   public static void Main (string[] args) {
-    int x = 1;
-    double y = 2.54;
+    Console.WriteLine("Enter inches to be converted");
+    var x = Console.ReadLine();
+    var y = 2.54;
 
-    double total = x * y;
-
-    Console.WriteLine("{0} inches * {1} is {2} centimeters", x, y, total);
+    int firstNumber;
+    int secondNumber;
+    if (int.TryParse(x, out firstNumber) && int.TryParse(y, out secondNumber)){
+      Console.WriteLine("{0} * {1} = {2}", firstNumber, secondNumber, (firstNumber * secondNumber));
+      }
+    else {
+      Console.WriteLine("Enter Numbers Only");
+    }
+  
+    
+  
     
     
   }
