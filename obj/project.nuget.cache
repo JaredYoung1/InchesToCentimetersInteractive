@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HG9+jZ7Bo8zMWVYG0bGF3zBo/smFWlNya3ulkOK9X60Vpu2JBcgoCW/zQlcpGQ1+vd+OzTRaKELLZRDSe8AFXA==",
+  "dgSpecHash": "g51Psw6KTZAmKRzPfsCAWzDwCgExFzg/LP6ycxqg6E3FeA3xA/CI0lnoTxkTacS8fWEZIiI1DnRaNIUFUcbN0g==",
   "success": true,
-  "projectFilePath": "/home/runner/InchesToCentimeters/main.csproj",
+  "projectFilePath": "/home/runner/InchesToCentimetersInteractive/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
