@@ -9,7 +9,7 @@ class Program {
 
 
     
-      Console.WriteLine("{0} * {1} = {2}", x, y, (x * y));
+      Console.WriteLine("{0} inches * {1} = {2} centimeters", x, y, (x * y));
       
    
   
